@@ -2,7 +2,7 @@ Main ()
 {
 Function1 ()
 {
-// Changes made by developer A
+// Changes made by developer B
 }
 
 }
