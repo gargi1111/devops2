@@ -2,7 +2,7 @@ Main ()
 {
 Function1 ()
 {
-// Initial Code
+// Changes made by developer A
 }
 
 }
